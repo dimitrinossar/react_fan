@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_fan/static/css/main.afa64e27.css",
+    "main.js": "/react_fan/static/js/main.eae5e16f.js",
+    "index.html": "/react_fan/index.html",
+    "main.afa64e27.css.map": "/react_fan/static/css/main.afa64e27.css.map",
+    "main.eae5e16f.js.map": "/react_fan/static/js/main.eae5e16f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afa64e27.css",
+    "static/js/main.eae5e16f.js"
+  ]
+}
